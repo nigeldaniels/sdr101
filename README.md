@@ -12,3 +12,4 @@ Create WXGUI FFT sink - does fft analysis on input and graphs
   - Sample Rate   : <samp_rate> 10M - this will define the sample rate of the sdr
   - Baseband freq : <center_freq> - This will be the center of the graph 
   - Average       : on - makes the graph easier to read 
+
